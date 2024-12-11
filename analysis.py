@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Load the data
 barnes_matches = pd.read_csv('arnes_refereed_matches.csv')
-other_matches = pd.read_csv('other_refees.csv')
+other_matches = pd.read_csv('other_refs.csv')
 
 # Analyze winning statistics for matches refereed by Wayne Barnes
 barnes_wins = barnes_matches[barnes_matches['result'] == 'win'].shape[0]

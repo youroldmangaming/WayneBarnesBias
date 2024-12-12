@@ -1,8 +1,323 @@
-date,opponent,result,nz_points,opponent_points,referee
-2023-06-10,Australia,win,35,20,John Doe
-2023-09-15,South Africa,win,28,27,Jane Smith
-2022-10-02,Argentina,win,38,15,Mark Robinson
-2021-11-20,England,loss,20,22,Tom Johnson
-2020-09-26,Africa,win,30,25,Emily Davis
-2023-07-01,Fiji,win,50,5,Chris Brown
-2022-11-05,France,win,26,24,Alex White
+date,	opponent,	result,	nz_points	nz_points	opponent_points
+Sun 24th Nov 2024  9:10pm,	Italy,	win,	29	29,	11
+Sun 17th Nov 2024  9:10pm,	France,	loss,	29	29,	30
+Fri 8th Nov 2024  8:10pm,	Ireland,	win,	23	23,	13
+Sun 3rd Nov 2024  3:00pm,	England,	win,	24	24,	22
+Fri 25th Oct 2024  2:50pm,	Japan,	win,	64	64,	19
+Sat 28th Sep 2024  7:05pm,	Australia,	win,	33	33,	13
+Sat 21st Sep 2024  3:45pm,	Australia,	win,	31	31,	28
+Sat 7th Sep 2024  5:00pm,	South Africa,	loss,	12	12,	18
+Sat 31st Aug 2024  5:00pm	South Africa,	loss,	27	27,	31
+Sat 17th Aug 2024  7:05pm,	Argentina,	win,	42	42,	10
+Sat 10th Aug 2024  7:05pm,	Argentina,	loss,	30	30,	38
+Sat 20th Jul 2024  12:30pm,	Fiji,	win,	47	47,	5
+Sat 13th Jul 2024  7:05pm,	England,	win,	24	24,	17
+Sat 6th Jul 2024  7:05pm,	England,	win,	16	16,	15
+Sat 28th Oct 2023  9:00pm,	South Africa,	loss,	11	11,	12
+Fri 20th Oct 2023  9:00pm,	Argentina,	win,	44	44,	6
+Sat 14th Oct 2023  9:00pm,	Ireland,	win,	28	28,	24
+Thu 5th Oct 2023  9:00pm,	Uruguay,	win,	73	73,	0
+Fri 29th Sep 2023  9:00pm,	Italy,	win,	96	96,	17
+Fri 15th Sep 2023  9:00pm,	Namibia,	win,	71	71,	3
+Fri 8th Sep 2023  9:15pm,	France,	loss,	13	13,	27
+Fri 25th Aug 2023  7:30pm,	South Africa,	loss,	7	7,	35
+Sat 5th Aug 2023  2:35pm,	Australia,	win,	23	23,	20
+Sat 29th Jul 2023  7:45pm,	Australia,	win,	38	38,	7
+Sat 15th Jul 2023  7:05pm,	South Africa,	win,	35	35,	20
+Sat 8th Jul 2023  4:10pm,	Argentina,	win,	41	41,	12
+Sat 19th Nov 2022  5:30pm,	England,	loss,	25	25,	25
+Sun 13th Nov 2022  2:15pm,	Scotland,	win,	31	31,	23
+Sat 5th Nov 2022  3:15pm,	Wales,	win,	55	55,	23
+Sat 29th Oct 2022  2:50pm,	Japan,	win,	38	38,	31
+Sat 24th Sep 2022  7:05pm,	Australia,	win,	40	40,	14
+Thu 15th Sep 2022  7:45pm,	Australia,	win,	39	39,	37
+Sat 3rd Sep 2022  7:05pm,	Argentina,	win,	53	53,	3
+Sat 27th Aug 2022  7:45pm,	Argentina,	loss,	18	18,	25
+Sat 13th Aug 2022  5:05pm,	South Africa,	win,	35	35,	23
+Sat 6th Aug 2022  5:05pm,	South Africa,	loss,	10	10,	26
+Sat 16th Jul 2022  7:05pm,	Ireland,	loss,	22	22,	32
+Sat 9th Jul 2022  7:05pm,	Ireland,	loss,	12	12,	23
+Sat 2nd Jul 2022  7:05pm,	Ireland,	win,	42	42,	19
+Sat 20th Nov 2021  9:00pm,	France,	loss,	25	25,	40
+Sat 13th Nov 2021  3:15pm,	Ireland,	loss,	20	20,	29
+Sat 6th Nov 2021  2:00pm,	Italy,	win,	47	47,	9
+Sat 30th Oct 2021  5:30pm,	Wales,	win,	54	54,	16
+Sat 23rd Oct 2021  3:30pm,	United States,	win,	104	104,	14
+Sat 2nd Oct 2021  8:05pm,	South Africa,	loss,	29	29,	31
+Sat 25th Sep 2021  5:05pm,	South Africa,	win,	19	19,	17
+Sat 18th Sep 2021  8:05pm,	Argentina,	win,	36	36,	13
+Sun 12th Sep 2021  5:05pm,	Argentina,	win,	39	39,	0
+Sun 5th Sep 2021  2:00pm,	Australia,	win,	38	38,	21
+Sat 14th Aug 2021  7:05pm,	Australia,	win,	57	57,	22
+Sat 7th Aug 2021  7:05pm,	Australia,	win,	33	33,	25
+Sat 17th Jul 2021  7:05pm,	Fiji,	win,	60	60,	13
+Sun 11th Jul 2021  7:05pm,	Fiji,	win,	57	57,	23
+Sat 3rd Jul 2021  7:05pm,	Tonga,	win,	102	102,	0
+Sat 28th Nov 2020  7:45pm,	Argentina,	win,	38	38,	0
+Sat 14th Nov 2020  5:10pm,	Argentina,	loss,	15	15,	25
+Sat 7th Nov 2020  7:45pm,	Australia,	loss,	22	22,	24
+Sat 31st Oct 2020  7:45pm,	Australia,	win,	43	43,	5
+Sun 18th Oct 2020  2:00pm,	Australia,	win,	27	27,	7
+Sun 11th Oct 2020  2:00pm,	Australia,	loss,	16	16,	16
+Fri 1st Nov 2019  6:00pm,	Wales,	win,	40	40,	17
+Sat 26th Oct 2019  5:00pm,	England,	loss,	7	7,	19
+Sat 19th Oct 2019  7:15pm,	Ireland,	win,	46	46,	14
+Sun 6th Oct 2019  1:45pm,	Namibia,	win,	71	71,	9
+Wed 2nd Oct 2019  7:15pm,	Canada,	win,	63	63,	0
+Sat 21st Sep 2019  6:45pm,	South Africa,	win,	23	23,	13
+Sat 7th Sep 2019  7:45pm,	Tonga,	win,	92	92,	7
+Sat 17th Aug 2019  7:45pm,	Australia,	win,	36	36,	0
+Sat 10th Aug 2019  7:45pm,	Australia,	loss,	26	26,	47
+Sat 27th Jul 2019  7:35pm,	South Africa,	loss,	16	16,	16
+Sat 20th Jul 2019  3:05pm,	Argentina,	win,	20	20,	16
+Sat 24th Nov 2018  3:00pm,	Italy,	win,	66	66,	3
+Sat 17th Nov 2018  7:00pm,	Ireland,	loss,	9	9,	16
+Sat 10th Nov 2018  3:00pm,	England,	win,	16	16,	15
+Sat 3rd Nov 2018  2:45pm,	Japan,	win,	69	69,	31
+Sat 27th Oct 2018  3:00pm,	Australia,	win,	37	37,	20
+Sat 6th Oct 2018  5:05pm,	South Africa,	win,	32	32,	30
+Sat 29th Sep 2018  7:40pm,	Argentina,	win,	35	35,	17
+Sat 15th Sep 2018  7:35pm,	South Africa,	loss,	34	34,	36
+Sat 8th Sep 2018  7:35pm,	Argentina,	win,	46	46,	24
+Sat 25th Aug 2018  7:35pm,	Australia,	win,	40	40,	12
+Sat 18th Aug 2018  7:45pm,	Australia,	win,	38	38,	13
+Sat 23rd Jun 2018  7:35pm,	France,	win,	49	49,	14
+Sat 16th Jun 2018  7:35pm,	France,	win,	26	26,	13
+Sat 9th Jun 2018  7:35pm,	France,	win,	52	52,	11
+Sat 25th Nov 2017  5:15pm,	Wales,	win,	33	33,	18
+Sat 18th Nov 2017  6:15pm,	Scotland,	win,	22	22,	17
+Tue 14th Nov 2017  7:00pm,	France XV,	win,	28	28,	23
+Sat 11th Nov 2017  7:00pm,	France,	win,	38	38,	18
+Sun 5th Nov 2017  7:00pm,	Barbarians	win,	31	31,	22
+Sat 21st Oct 2017  8:00pm,	Australia,	loss,	18	18,	23
+Sat 7th Oct 2017  5:05pm,	South Africa,	win,	25	25,	24
+Sat 30th Sep 2017  7:30pm,	Argentina,	win,	36	36,	10
+Sat 16th Sep 2017  7:35pm,	South Africa,	win,	57	57,	0
+Sat 9th Sep 2017  7:35pm,	Argentina,	win,	39	39,	22
+Sat 26th Aug 2017  7:35pm,	Australia,	win,	35	35,	29
+Sat 19th Aug 2017  8:00pm,	Australia,	win,	54	54,	34
+Sat 8th Jul 2017  7:35pm,	Lions,	loss,	15	15,	15
+Sat 1st Jul 2017  7:35pm,	Lions,	loss,	21	21,	24
+Sat 24th Jun 2017  7:35pm,	Lions,	win,	30	30,	15
+Fri 16th Jun 2017  8:00pm,	Samoa,	win,	78	78,	0
+Sat 26th Nov 2016  9:00pm,	France,	win,	24	24,	19
+Sat 19th Nov 2016  5:30pm,	Ireland,	win,	21	21,	9
+Sat 12th Nov 2016  3:00pm,	Italy,	win,	68	68,	10
+Sat 5th Nov 2016  3:00pm,	Ireland,	loss,	29	29,	40
+Sat 22nd Oct 2016  7:35pm,	Australia,	win,	37	37,	10
+Sat 8th Oct 2016  5:00pm,	South Africa,	win,	57	57,	15
+Sat 1st Oct 2016  7:10pm,	Argentina,	win,	36	36,	17
+Sat 17th Sep 2016  7:35pm,	South Africa,	win,	41	41,	13
+Sat 10th Sep 2016  7:35pm,	Argentina,	win,	57	57,	22
+Sat 27th Aug 2016  7:35pm,	Australia,	win,	29	29,	9
+Sat 20th Aug 2016  8:05pm,	Australia,	win,	42	42,	8
+Sat 25th Jun 2016  7:35pm,	Wales,	win,	46	46,	6
+Sat 18th Jun 2016  7:35pm,	Wales,	win,	36	36,	22
+Sat 11th Jun 2016  7:35pm,	Wales,	win,	39	39,	21
+Sat 31st Oct 2015  9:00pm,	Australia,	win,	34	34,	17
+Sat 24th Oct 2015  4:00pm,	South Africa,	win,	20	20,	18
+Sat 17th Oct 2015  8:00pm,	France,	win,	62	62,	13
+Fri 9th Oct 2015  8:00pm,	Tonga,	win,	47	47,	9
+Fri 2nd Oct 2015  8:00pm,	Georgia,	win,	43	43,	10
+Thu 24th Sep 2015  8:00pm,	Namibia,	win,	58	58,	14
+Sun 20th Sep 2015  4:45pm,	Argentina,	win,	26	26,	16
+Sat 15th Aug 2015  7:35pm,	Australia,	win,	41	41,	13
+Sat 8th Aug 2015  8:05pm,	Australia,	loss,	19	19,	27
+Sat 25th Jul 2015  5:05pm,	South Africa,	win,	27	27,	20
+Fri 17th Jul 2015  7:35pm,	Argentina,	win,	39	39,	18
+Wed 8th Jul 2015  3:00pm,	Samoa,	win,	25	25,	16
+Sat 22nd Nov 2014  5:30pm,	Wales,	win,	34	34,	16
+Sat 15th Nov 2014  5:30pm,	Scotland,	win,	24	24,	16
+Sat 8th Nov 2014  3:35pm,	England,	win,	24	24,	21
+Sat 1st Nov 2014  3:00pm,	United States,	win,	74	74,	6
+Sat 18th Oct 2014  8:05pm,	Australia,	win,	29	29,	28
+Sat 4th Oct 2014  5:05pm,	South Africa,	loss,	25	25,	27
+Sat 27th Sep 2014  7:10pm,	Argentina,	win,	34	34,	13
+Sat 13th Sep 2014  7:35pm,	South Africa,	win,	14	14,	10
+Sat 6th Sep 2014  7:35pm,	Argentina,	win,	28	28,	9
+Sat 23rd Aug 2014  7:35pm,	Australia,	win,	51	51,	20
+Sat 16th Aug 2014  8:05pm,	Australia,	loss,	12	12,	12
+Sat 21st Jun 2014  7:35pm,	England,	win,	36	36,	13
+Sat 14th Jun 2014  7:35pm,	England,	win,	28	28,	27
+Sat 7th Jun 2014  7:35pm,	England,	win,	20	20,	15
+Sun 24th Nov 2013  2:00pm,	Ireland,	win,	24	24,	22
+Sat 16th Nov 2013  2:30pm,	England,	win,	30	30,	22
+Sat 9th Nov 2013  9:00pm,	France,	win,	26	26,	19
+Sat 2nd Nov 2013  2:00pm,	Japan,	win,	54	54,	6
+Sat 19th Oct 2013  7:35pm,	Australia,	win,	41	41,	33
+Sat 5th Oct 2013  5:00pm,	South Africa,	win,	38	38,	27
+Sat 28th Sep 2013  7:40pm,	Argentina,	win,	33	33,	15
+Sat 14th Sep 2013  7:35pm,	South Africa,	win,	29	29,	15
+Sat 7th Sep 2013  7:35pm,	Argentina,	win,	28	28,	13
+Sat 24th Aug 2013  7:35pm,	Australia,	win,	27	27,	16
+Sat 17th Aug 2013  8:05pm,	Australia,	win,	47	47,	29
+Sat 22nd Jun 2013  7:35pm,	France,	win,	24	24,	9
+Sat 15th Jun 2013  7:35pm,	France,	win,	30	30,	0
+Sat 8th Jun 2013  7:35pm,	France,	win,	23	23,	13
+Sat 1st Dec 2012  2:30pm,	England,	loss,	21	21,	38
+Sat 24th Nov 2012  5:15pm,	Wales,	win,	33	33,	10
+Sat 17th Nov 2012  3:00pm,	Italy,	win,	42	42,	10
+Sun 11th Nov 2012  2:30pm,	Scotland,	win,	51	51,	22
+Sat 20th Oct 2012  8:05pm,	Australia,	loss,	18	18,	18
+Sat 6th Oct 2012  5:00pm,	South Africa,	win,	32	32,	16
+Sat 29th Sep 2012  8:10pm,	Argentina,	win,	54	54,	15
+Sat 15th Sep 2012  7:35pm,	South Africa,	win,	21	21,	11
+Sat 8th Sep 2012  7:35pm,	Argentina,	win,	21	21,	5
+Sat 25th Aug 2012  7:35pm,	Australia,	win,	22	22,	0
+Sat 18th Aug 2012  8:05pm,	Australia,	win,	27	27,	19
+Sat 23rd Jun 2012  7:35pm,	Ireland,	win,	60	60,	0
+Sat 16th Jun 2012  7:35pm,	Ireland,	win,	22	22,	19
+Sat 9th Jun 2012  7:35pm,	Ireland,	win,	42	42,	10
+Sun 23rd Oct 2011  9:00pm,	France,	win,	8	8,	7
+Sun 16th Oct 2011  9:00pm,	Australia,	win,	20	20,	6
+Sun 9th Oct 2011  8:30pm,	Argentina,	win,	33	33,	10
+Sun 2nd Oct 2011  3:30pm,	Canada,	win,	79	79,	15
+Sat 24th Sep 2011  8:30pm,	France,	win,	37	37,	17
+Fri 16th Sep 2011  8:00pm,	Japan,	win,	83	83,	7
+Fri 9th Sep 2011  8:30pm,	Tonga,	win,	41	41,	10
+Sat 27th Aug 2011  8:05pm,	Australia,	loss,	20	20,	25
+Sat 20th Aug 2011  5:00pm,	South Africa,	loss,	5	5,	18
+Sat 6th Aug 2011  7:35pm,	Australia,	win,	30	30,	14
+Sat 30th Jul 2011  7:35pm,	South Africa,	win,	40	40,	7
+Fri 22nd Jul 2011  7:35pm,	Fiji,	win,	60	60,	14
+Sat 27th Nov 2010  5:15pm,	Wales,	win,	37	37,	25
+Sat 20th Nov 2010  5:15pm,	Ireland,	win,	38	38,	18
+Sat 13th Nov 2010  5:15pm,	Scotland,	win,	49	49,	3
+Sat 6th Nov 2010  2:30pm,	England,	win,	26	26,	16
+Sat 30th Oct 2010  4:30pm,	Australia,	loss,	24	24,	26
+Sat 11th Sep 2010  8:00pm,	Australia,	win,	23	23,	22
+Sat 21st Aug 2010  5:00pm,	South Africa,	win,	29	29,	22
+Sat 7th Aug 2010  7:35pm,	Australia,	win,	20	20,	10
+Sat 31st Jul 2010  8:00pm,	Australia,	win,	49	49,	28
+Sat 17th Jul 2010  7:35pm,	South Africa,	win,	31	31,	17
+Sat 10th Jul 2010  7:35pm,	South Africa,	win,	32	32,	12
+Sat 26th Jun 2010  7:35pm,	Wales,	win,	29	29,	10
+Sat 19th Jun 2010  7:35pm,	Wales,	win,	42	42,	9
+Sat 12th Jun 2010  7:35pm,	Ireland,	win,	66	66,	28
+Sat 5th Dec 2009  2:30pm,	Barbarians,	loss,	18	18,	25
+Sat 28th Nov 2009  8:45pm,	France,	win,	39	39,	12
+Sat 21st Nov 2009  2:30pm,	England,	win,	19	19,	6
+Sat 14th Nov 2009  3:05pm,	Italy,	win,	20	20,	6
+Sat 7th Nov 2009  5:15pm,	Wales,	win,	19	19,	12
+Sat 31st Oct 2009  5:30pm,	Australia,	win,	32	32,	19
+Sat 19th Sep 2009  7:35pm,	Australia,	win,	33	33,	6
+Sat 12th Sep 2009  7:35pm,	South Africa,	loss,	29	29,	32
+Sat 22nd Aug 2009  8:00pm,	Australia,	win,	19	19,	18
+Sat 1st Aug 2009  5:00pm,	South Africa,	loss,	19	19,	31
+Sat 25th Jul 2009  3:00pm,	South Africa,	loss,	19	19,	28
+Sat 18th Jul 2009  7:35pm,	Australia,	win,	22	22,	16
+Sat 27th Jun 2009  7:35pm,	Italy,	win,	27	27,	6
+Sat 20th Jun 2009  7:45pm,	France,	win,	14	14,	10
+Sat 13th Jun 2009  7:45pm,	France,	loss,	22	22,	27
+Sat 29th Nov 2008  2:35pm,	England,	win,	32	32,	6
+Sat 22nd Nov 2008  5:15pm,	Wales,	win,	29	29,	9
+Tue 18th Nov 2008  7:30pm,	Munster	win,	18	18,	16
+Sat 15th Nov 2008  5:15pm,	Ireland,	win,	22	22,	3
+Sat 8th Nov 2008  5:15pm,	Scotland,	win,	32	32,	6
+Sat 1st Nov 2008  4:30pm,	Australia,	win,	19	19,	14
+Sat 13th Sep 2008  8:00pm,	Australia,	win,	28	28,	24
+Wed 3rd Sep 2008  7:35pm,	Samoa,	win,	101	101,	14
+Sat 16th Aug 2008  3:00pm,	South Africa,	win,	19	19,	0
+Sat 2nd Aug 2008  7:35pm,	Australia,	win,	39	39,	10
+Sat 26th Jul 2008  8:00pm,	Australia,	loss,	19	19,	34
+Sat 12th Jul 2008  7:35pm,	South Africa,	loss,	28	28,	30
+Sat 5th Jul 2008  7:35pm,	South Africa,	win,	19	19,	8
+Sat 21st Jun 2008  7:35pm,	England,	win,	44	44,	12
+Sat 14th Jun 2008  7:35pm,	England,	win,	37	37,	20
+Sat 7th Jun 2008  7:35pm,	Ireland,	win,	21	21,	11
+Sat 6th Oct 2007  9:00pm,	France,	loss,	18	18,	20
+Sat 29th Sep 2007  1:00pm,	Romania,	win,	85	85,	8
+Sun 23rd Sep 2007  4:00pm,	Scotland,	win,	40	40,	0
+Sat 15th Sep 2007  1:00pm,	Portugal,	win,	108	108,	13
+Sat 8th Sep 2007  1:45pm,	Italy,	win,	76	76,	14
+Sat 21st Jul 2007  7:35pm,	Australia,	win,	26	26,	12
+Sat 14th Jul 2007  7:35pm,	South Africa,	win,	33	33,	6
+Sat 30th Jun 2007  8:00pm,	Australia,	loss,	15	15,	20
+Sat 23rd Jun 2007  3:00pm,	South Africa,	win,	26	26,	21
+Sat 16th Jun 2007  7:35pm,	Canada,	win,	64	64,	13
+Sat 9th Jun 2007  7:35pm,	France,	win,	61	61,	10
+Sat 2nd Jun 2007  7:35pm,	France,	win,	42	42,	11
+Sat 25th Nov 2006  5:00pm,	Wales,	win,	45	45,	10
+Sat 18th Nov 2006  9:00pm,	France,	win,	23	23,	11
+Sat 11th Nov 2006  9:00pm,	France,	win,	47	47,	3
+Sun 5th Nov 2006  3:30pm,	England,	win,	41	41,	20
+Sat 2nd Sep 2006  3:00pm,	South Africa,	loss,	20	20,	21
+Sat 26th Aug 2006  3:00pm,	South Africa,	win,	45	45,	26
+Sat 19th Aug 2006  5:30pm,	Australia,	win,	34	34,	27
+Sat 29th Jul 2006  8:00pm,	Australia,	win,	13	13,	9
+Sat 22nd Jul 2006  7:35pm,	South Africa,	win,	35	35,	17
+Sat 8th Jul 2006  7:35pm,	Australia,	win,	32	32,	12
+Sat 24th Jun 2006  9:00pm,	Argentina,	win,	25	25,	19
+Sat 17th Jun 2006  7:35pm,	Ireland,	win,	27	27,	17
+Sat 10th Jun 2006  7:35pm,	Ireland,	win,	34	34,	23
+Sat 26th Nov 2005  2:30pm,	Scotland,	win,	29	29,	10
+Sat 19th Nov 2005  2:30pm,	England,	win,	23	23,	19
+Sat 12th Nov 2005  2:30pm,	Ireland,	win,	45	45,	7
+Sat 5th Nov 2005  4:00pm,	Wales,	win,	41	41,	3
+Sat 3rd Sep 2005  7:35pm,	Australia,	win,	34	34,	24
+Sat 27th Aug 2005  7:35pm,	South Africa,	win,	31	31,	27
+Sat 13th Aug 2005  8:00pm,	Australia,	win,	30	30,	13
+Sat 6th Aug 2005  3:00pm,	South Africa,	loss,	16	16,	22
+Sat 9th Jul 2005  7:00pm,	Lions,	win,	38	38,	19
+Sat 2nd Jul 2005  7:10pm,	Lions,	win,	48	48,	18
+Sat 25th Jun 2005  7:10pm,	Lions,	win,	21	21,	3
+Fri 10th Jun 2005  7:10pm,	Fiji,	win,	91	91,	0
+Sat 4th Dec 2004  3:00pm,	Barbarians,	win,	47	47,	19
+Sat 27th Nov 2004  9:00pm,	France,	win,	45	45,	6
+Sat 20th Nov 2004  5:30pm,	Wales,	win,	26	26,	25
+Sat 13th Nov 2004  4:00pm,	Italy,	win,	59	59,	10
+Sat 14th Aug 2004  3:00pm,	South Africa,	loss,	26	26,	40
+Sat 7th Aug 2004  8:00pm,	Australia,	loss,	18	18,	23
+Sat 24th Jul 2004  7:35pm,	South Africa,	win,	23	23,	21
+Sat 17th Jul 2004  7:35pm,	Australia,	win,	16	16,	7
+Sat 10th Jul 2004  7:35pm,	Pacific,	win,	41	41,	26
+Sat 26th Jun 2004  7:35pm,	Argentina,	win,	41	41,	7
+Sat 19th Jun 2004  7:35pm,	England,	win,	36	36,	12
+Sat 12th Jun 2004  7:35pm,	England,	win,	36	36,	3
+Thu 20th Nov 2003  8:00pm,	France,	win,	40	40,	13
+Sat 15th Nov 2003  8:00pm,	Australia,	loss,	10	10,	22
+Sat 8th Nov 2003  6:30pm,	South Africa,	win,	29	29,	9
+Sun 2nd Nov 2003  8:35pm,	Wales,	win,	53	53,	37
+Fri 24th Oct 2003  5:30pm,	Tonga,	win,	91	91,	7
+Fri 17th Oct 2003  12:00am,	Canada,	win,	68	68,	6
+Sat 11th Oct 2003  12:00am,	Italy,	win,	70	70,	7
+Sat 16th Aug 2003  7:35pm,	Australia,	win,	21	21,	17
+Sat 9th Aug 2003  7:35pm,	South Africa,	win,	19	19,	11
+Sat 26th Jul 2003  8:00pm,	Australia,	win,	50	50,	21
+Sat 19th Jul 2003  3:00pm,	South Africa,	win,	52	52,	16
+Sat 28th Jun 2003  7:35pm,	France,	win,	31	31,	23
+Sat 21st Jun 2003  7:00pm,	Wales,	win,	55	55,	3
+Sat 14th Jun 2003  7:00pm,	England,	loss,	13	13,	15
+Sat 23rd Nov 2002  2:30pm,	Wales,	win,	43	43,	17
+Sat 16th Nov 2002  8:45pm,	France,	loss,	20	20,	20
+Sat 9th Nov 2002  2:30pm,	England,	loss,	28	28,	31
+Sat 10th Aug 2002  3:00pm,	South Africa,	win,	30	30,	23
+Sat 3rd Aug 2002  8:00pm,	Australia,	loss,	14	14,	16
+Sat 20th Jul 2002  7:35pm,	South Africa,	win,	41	41,	20
+Sat 13th Jul 2002  7:35pm,	Australia,	win,	12	12,	6
+Sat 29th Jun 2002  7:00pm,	Fiji,	win,	68	68,	18
+Sat 22nd Jun 2002  7:05pm,	Ireland,	win,	40	40,	8
+Sat 15th Jun 2002  7:05pm,	Ireland,	win,	15	15,	6
+Sat 8th Jun 2002  7:35pm,	Italy,	win,	64	64,	10
+Sat 1st Dec 2001  8:30pm,	Argentina,	win,	24	24,	20
+Sat 24th Nov 2001  4:00pm,	Scotland,	win,	37	37,	6
+Tue 20th Nov 2001  12:00am,	Scotland A	win,	35	35,	13
+Sat 17th Nov 2001  2:00pm,	Ireland,	win,	40	40,	29
+Tue 13th Nov 2001  12:00am,	Ireland A	win,	43	43,	30
+Sat 1st Sep 2001  8:00pm,	Australia,	loss,	26	26,	29
+Sat 25th Aug 2001  7:35pm,	South Africa,	win,	26	26,	15
+Sat 11th Aug 2001  7:35pm,	Australia,	loss,	15	15,	23
+Sat 21st Jul 2001  3:00pm,	South Africa,	win,	12	12,	3
+Sat 30th Jun 2001  7:35pm,	France,	win,	37	37,	12
+Sat 23rd Jun 2001  7:35pm,	Argentina,	win,	67	67,	19
+Sat 16th Jun 2001  7:35pm,	Samoa,	win,	50	50,	6
+Sat 25th Nov 2000  12:00am,	Italy,	win,	56	56,	19
+Sat 18th Nov 2000  7:45pm,	France,	loss,	33	33,	42
+Sat 11th Nov 2000  7:45pm,	France,	win,	39	39,	26
+Sat 19th Aug 2000  3:00pm,	South Africa,	loss,	40	40,	46
+Sat 5th Aug 2000  7:35pm,	Australia,	loss,	23	23,	24
+Sat 22nd Jul 2000  7:35pm,	South Africa,	win,	25	25,	12
+Sat 15th Jul 2000  8:00pm,	Australia,	win,	39	39,	35
+Sat 1st Jul 2000  7:35pm,	Scotland,	win,	48	48,	14
+Sat 24th Jun 2000  7:35pm,	Scotland,	win,	69	69,	20
+Fri 16th Jun 2000  7:35pm,	Tonga,	win,	102	102,	0

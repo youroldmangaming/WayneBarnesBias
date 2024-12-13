@@ -50,8 +50,6 @@
 - **Losses and Draws**:
   - Barnes has **9 losses** and no draws, indicating that the matches he officiated were often decisive. In contrast, Joubert has only **1 loss** and **1 draw**, suggesting a more favorable performance in terms of match outcomes.
 
-- **Duration of Officiating**:
-  - The duration of officiating for each referee varies. For example, Nigel Owens officiated from **21st Jul 2007 to 26th Oct 2019**, while Barnes has been officiating since **8th Sep 2007** and continues to the present.
 
 ## Conclusion
 

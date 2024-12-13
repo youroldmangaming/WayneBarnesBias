@@ -1,4 +1,4 @@
-# Overall Analysis of Referee Performance and Bias Against Wayne Barnes
+# Overall Analysis of Wayne Barnes Referee Performance and Bias Against the All Blacks 
 
 ## Key Components of the Analysis
 

@@ -26,12 +26,13 @@
 
 ## Referee Performance Data
 
-Referee	Country	Games	Wins	Win %	Loss	Draw	Duration Start	Duration End
-Nigel Owens	gb-wls	26	22	85%	4	0	21st Jul 2007	26th Oct 2019
-Wayne Barnes	gb-eng	25	16	64%	9	0	8th Sep 2007	28th Oct 2023
-Craig Joubert	za	19	17	89%	1	1	9th Jun 2007	10th Sep 2016
-Jaco Peyper	za	18	15	83%	2	1	29th Sep 2012	8th Sep 2023
-Jonathan Kaplan	za	18	14	78%	4	0	5th Aug 2000	7th Aug 2010
+| Referee            | Country  | Games | Wins | Win % | Loss | Draw | Duration Start     | Duration End       |
+|--------------------|----------|-------|------|-------|------|------|---------------------|---------------------|
+| Nigel Owens        | gb-wls   | 26    | 22   | 85%   | 4    | 0    | 21st Jul 2007      | 26th Oct 2019       |
+| Wayne Barnes       | gb-eng   | 25    | 16   | 64%   | 9    | 0    | 8th Sep 2007       | 28th Oct 2023       |
+| Craig Joubert      | za       | 19    | 17   | 89%   | 1    | 1    | 9th Jun 2007       | 10th Sep 2016       |
+| Jaco Peyper        | za       | 18    | 15   | 83%   | 2    | 1    | 29th Sep 2012      | 8th Sep 2023        |
+| Jonathan Kaplan     | za       | 18    | 14   | 78%   | 4    | 0    | 5th Aug 2000       | 7th Aug 2010        |
 
 ## Analysis of the Data
 
